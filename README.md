@@ -1,2 +1,2 @@
 # guitar-practice
-Suite of scripts to provide support with guitar exerc
+Suite of scripts to provide support with guitar exercises
