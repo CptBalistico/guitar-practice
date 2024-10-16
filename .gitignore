@@ -1,1 +1,4 @@
 .idea*
+__pycache__/
+dist/
+guitar_practice/__pycache__/
